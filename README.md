@@ -90,21 +90,3 @@ The platform lets you browse events, view details, register, and explore similar
 👉 **PostHog User Analytics**  
 👉 Clean folder structure & reusable components  
 
----
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to run the project locally:
-
-### **Prerequisites**
-Make sure you have installed:
-
-- Git  
-- Node.js  
-- npm  
-
-### **Clone the Repository**
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
